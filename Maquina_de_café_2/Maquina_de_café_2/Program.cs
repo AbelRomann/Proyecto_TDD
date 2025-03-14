@@ -30,7 +30,7 @@ namespace Maquina_de_café_2
         {
 
             Console.WriteLine("--------------------------------");
-            Console.WriteLine("!Bienvenidos a la maquina de cafe!");
+            Console.WriteLine("!Bienvenidos a la máquina de cafe!");
             Console.WriteLine("--------------------------------");
             Console.WriteLine("");
             Console.WriteLine("--------------------------------");
